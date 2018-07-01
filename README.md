@@ -2,12 +2,12 @@
 2018 Jul 1
 
 # iOS
-Shadowrockets import
+**Shadowrocket** import
 
 https://raw.githubusercontent.com/fline/NGA-Hosts/master/ngahosts.conf
 
 # Android
-Go Hosts import
+**Go Hosts** import
 
 https://raw.githubusercontent.com/fline/NGA-Hosts/master/ngahosts-android
 
