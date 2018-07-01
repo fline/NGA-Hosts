@@ -2,9 +2,13 @@
 2018 Jul 1
 
 # iOS
-Shadowrockets import ngahosts.conf
+Shadowrockets import
+https://raw.githubusercontent.com/fline/NGA-Hosts/master/ngahosts.conf
 
 # Android
-Go Hosts import ngahosts-android
+Go Hosts import
+https://raw.githubusercontent.com/fline/NGA-Hosts/master/ngahosts-android
 
-NGA Version 7.3.1
+
+# NGA client
+Version 7.3.1
