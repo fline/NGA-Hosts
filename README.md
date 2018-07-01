@@ -3,10 +3,12 @@
 
 # iOS
 Shadowrockets import
+
 https://raw.githubusercontent.com/fline/NGA-Hosts/master/ngahosts.conf
 
 # Android
 Go Hosts import
+
 https://raw.githubusercontent.com/fline/NGA-Hosts/master/ngahosts-android
 
 
