@@ -2,7 +2,7 @@
 2018 Jul 1
 
 # iOS
-shadowrockets import ngahosts.conf
+Shadowrockets import ngahosts.conf
 
 # Android
 Go Hosts import ngahosts-android
