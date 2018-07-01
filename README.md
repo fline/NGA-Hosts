@@ -4,7 +4,7 @@
 # iOS
 shadowrockets import ngahosts.conf
 
-#Android
+# Android
 Go Hosts import ngahosts-android
 
 NGA Version 7.3.1
