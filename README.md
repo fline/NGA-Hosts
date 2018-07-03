@@ -13,4 +13,8 @@ https://raw.githubusercontent.com/fline/NGA-Hosts/master/ngahosts-android
 
 
 # NGA client
-Version 7.3.1
+**Android** Version 7.3.1
+
+**iOS iPhone** Version 5.3.2
+
+**iOS iPad** Version 3.3.0
